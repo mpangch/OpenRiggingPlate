@@ -31,8 +31,6 @@ This repository provides detailed instructions, files, and Finite Element Analys
 | **Surface Finish**  | CNC machining to **Ra1.6 or better**; hand polishing preferred |
 | **Coating**         | Hardcoat Anodizing Type III (Default: Black, other colors optional) |
 | **Tolerances**      | ISO 2768 medium                 |
-| **Threads**         | None                            |
-| **Sub-assembly**    | No                              |
 
 ---
 
