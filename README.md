@@ -1,6 +1,6 @@
 # Aluminum Rigging Plate
 
-This repository provides detailed instructions, files, and Finite Element Analysis (FEA) results for manufacturing  the OpenRiggingPlate - a **7075-T6 Anodized Aluminum Rigging Plate** designed for various rigging applications.
+This repository provides detailed instructions, files, and Finite Element Analysis (FEA) results for manufacturing  the OpenRiggingPlate - a **7075-T6 Aluminium, Hard Anodized Rigging Plate** designed for various rigging applications.
 
 ![OpenRiggingPlate](RiggingPlate.jpeg)
 
